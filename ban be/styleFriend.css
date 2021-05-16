@@ -78,7 +78,6 @@
 }
 
 .peoplefl{
-    /* background: red; */
     font-size: 12px;
     color: #8e8e8e;
     font-weight: 600;
@@ -90,11 +89,3 @@
 .peoplefl:hover{
     color: #8e8e8e !important;
 }
-
-/* .container .fix-css{
-    height: 100px;
-    padding-top: 0;
-}
-.container .fix-css .f1 .text{
-    margin-top: 0 !important;
-} */

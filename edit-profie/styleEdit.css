@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: #262626;
+}
+body{
+    font-size: 14px;
+    font-family: "apple-system","BlinkMacSystemFont","Segoe UI","Roboto",Helvetica,Arial,sans-serif;
+}
+.edit{
+    width: 935px;
+    border: 1px solid #dbdbdb;
+    display: flex;
+    
+}
+/* title */
+
+.edit .title{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #dbdbdb;
+    width: 236px;
+}
+.edit .list-name{
+    padding: 16px 16px 16px 30px;
+    border-left: 2px solid #fafafa;
+    font-size: 16px;
+    width: 236px;
+    height: 52px;
+}
+.edit .list-name:hover{
+    border-left: 2px solid #b1aeaea4;
+    background-color: #f8f8f8;
+    border-right: 1px solid #dbdbdb;
+}
+.edit .title-change{
+    padding: 16px;
+    margin-left: 16px;
+
+}
+.edit .title-change a{
+    font-size: 16px;
+    color: #0095f6;
+    font-weight: 600;
+
+}
+.edit .title-center{
+    padding: 28px 20px 28px 16px;
+    border-top: 1px solid #dbdbdb;
+
+}
+.edit .title-text{
+    margin-top: 16px;
+}
+.edit .title-text a{
+    color: #0095f6;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+/* content  */
+.component-1{
+    background-color: white;
+    width: 697px;
+}
+.name-title{
+    font-size: 16px;
+    font-weight: 600;
+}
+.compo1-text{
+    font-size: 12px;
+    color: #8e8e8e;
+}
+.compo1-name{
+    display: flex;
+}

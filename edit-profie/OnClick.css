@@ -1,0 +1,11 @@
+.add-edit{
+    font-weight: 600;
+    color: #262626 !important;
+    background-color: white !important;
+    border-left: 2px solid #262626 !important;
+    border-right: 1px solid #dbdbdb;
+    
+}
+.add-border-edit{
+    border-left: 2px solid #262626;
+}

@@ -9,17 +9,13 @@
     height: 293px;
     background-size: cover;
     border-radius: 0;
-    margin-right: 0;
-    margin: 0px;
 }
-.card-row .card{
+.card-row .col .card{
     margin-right: 0;
-    padding: 0;
 }
 .card-row .card-img-top{
     border-radius: 0;
     position: absolute;
-    /* top: -35px; */
 }
 .card-row .card-new:hover .card-bacgr{
     display: block;
